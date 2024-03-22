@@ -1,0 +1,73 @@
+{
+  "mainHash": "64e9cbaa8f7580835826fa3b185da5115373191199ffc5fbeddabe1e8c108382",
+  "data": {
+    "args": {
+      "request_dmitem": "28",
+      "main": "image.png",
+      "i": true,
+      "proof": [
+        {
+          "p": false,
+          "d": "1b2340c9e195f06b8c856d76bc05693ebbb67cf645291829c3f131b9572906a8"
+        },
+        {
+          "p": true,
+          "d": "85b84b6d276537cb84c157a76db393b3aff2f638d6e2948020da33bfe7fa537f"
+        },
+        {
+          "p": true,
+          "d": "e82a21f2750417a295fb413cd0cac83490bd2d55387cc7bfb57b704762e97c5a"
+        },
+        {
+          "p": true,
+          "d": "4acf134f6a8dd96d7d2d85fb81031f6c22c96f058616c2fe3c2185afe42bf86b"
+        },
+        {
+          "p": false,
+          "d": "204826179277e7faff60137dea98f09897da92e8baeb8fb6c04afffb24cbd476"
+        },
+        {
+          "p": true,
+          "d": "cfee6bcc42dad8aa7db4fc68d832e262687ae18bff1b62098b2ab95c70e82bf7"
+        },
+        {
+          "p": false,
+          "d": "aab1221a09863d4b1c056b486575e0b100e3dce3d033ece3153cba623707304a"
+        },
+        {
+          "p": false,
+          "d": "24a5e74bbd1cbda98753006a9540fa6834c5b13dd3a475d76ad8295b25d2ee34"
+        },
+        {
+          "p": false,
+          "d": "020cfb223ab8ba6904d184c33cbd3e555ed9e7a5125634d9aa11dfdd771c8345"
+        },
+        {
+          "p": false,
+          "d": "06eff75f14a409100c5b974c5430b89017f1e77cb37928ee16f994c18f611c2e"
+        },
+        {
+          "p": false,
+          "d": "5c9b8e9ed69b5fa9a495a3fbea6ac79656ae08ba212f8bf8faba974a2469d188"
+        },
+        {
+          "p": true,
+          "d": "fae79cdd1ea9e511d8cd0e035eca58f38c0f0b8032d9d028b37aaeadda6ace1f"
+        },
+        {
+          "p": true,
+          "d": "1310b4266856107933e902ef55ae60897219b31301429b1aa86181377f0033cd"
+        },
+        {
+          "p": true,
+          "d": "0225f45d4929e806cd7d0df8321acf15b125688176424c554b299b231246f6c3"
+        }
+      ]
+    },
+    "image.png": {
+      "$b": "89504e470d0a1a0a0000000d494844520000001c0000001c080300000045d32fa60000001e504c544547704cffffff9ef5f5feea272de8e7f7690009a2fa6d6a6bee0100170c0fa31d93c90000000174524e530040e6d866000000624944415478daedd0510ec0101000d1766cd1fb5fb8aa45ed8a3840e743c4cb92d8fe16935677ee1ea3d699534837e7b8f14c91b3937bf03eec39fda6c596bad6221c6f73745a81589a62ace760bf6f090149e5b56cf92254842102434c151459c40bfde1040bbfdca0df0000000049454e44ae426082"
+    }
+  },
+  "targetVector": "28:any:any:image.png:64e9cbaa8f7580835826fa3b185da5115373191199ffc5fbeddabe1e8c108382",
+  "targethash": "64e9cbaa8f7580835826fa3b185da5115373191199ffc5fbeddabe1e8c108382"
+}
